@@ -1,3 +1,15 @@
+**Deployed App:-**
+https://student-app-p6rehysl5-neelamkoli06.vercel.app
+
+**Preview:-**
+
+
+![Screenshot 2022-02-10 at 8 06 15 PM](https://user-images.githubusercontent.com/85050864/153437317-cfe37733-52b4-4b7c-86a6-a61dc3ae4b84.png)
+
+![Screenshot 2022-02-10 at 8 07 34 PM](https://user-images.githubusercontent.com/85050864/153437374-aa5dc034-ce43-4143-ba49-ebf744d99299.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,17 +80,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-
-**Deployed App:-**
-https://student-app-p6rehysl5-neelamkoli06.vercel.app
-
-**Preview:-**
-
-
-![Screenshot 2022-02-10 at 8 06 15 PM](https://user-images.githubusercontent.com/85050864/153437317-cfe37733-52b4-4b7c-86a6-a61dc3ae4b84.png)
-
-![Screenshot 2022-02-10 at 8 07 34 PM](https://user-images.githubusercontent.com/85050864/153437374-aa5dc034-ce43-4143-ba49-ebf744d99299.png)
-
-
